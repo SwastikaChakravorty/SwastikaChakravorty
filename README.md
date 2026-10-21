@@ -1,16 +1,14 @@
-## Hi there 👋
+# Swastika Chakravorty
 
-<!--
-**SwastikaChakravorty/SwastikaChakravorty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical engineering undergrad in India, interested in power systems, digital design and everything in between.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- B.Tech student in electrical engineering
+- Power system analysis with MATLAB (bus impedance matrices, fault analysis, load flow)
+- Learning Verilog HDL for digital design
+- Preparing for GATE 2027
+
+## What you'll find here
+
+Coursework, lab simulations and personal projects in power systems and digital design - uploaded as I build them.
