@@ -1,10 +1,10 @@
 # Swastika Chakravorty
 
-Electrical engineering undergrad in India, interested in power systems, digital design and everything in between.
+3rd-year Electrical and Electronics Engineering (EEE) undergrad at VIT, interested in power systems, digital design and everything in between.
 
 ## About me
 
-- B.Tech student in electrical engineering
+- 3rd-year B.Tech student in Electrical and Electronics Engineering at VIT
 - Power system analysis with MATLAB (bus impedance matrices, fault analysis, load flow)
 - Learning Verilog HDL for digital design
 - Preparing for GATE 2027
