@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Swastika%20Chakravorty&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Electrical%20%26%20Electronics%20Engineering%20%7C%20VIT&descSize=18&descAlignY=68)
+<img src="banner.svg" alt="Swastika Chakravorty banner" width="800">
 
 </div>
 
@@ -27,9 +27,3 @@
 
 - [Automated Temperature DAQ & Control](https://github.com/SwastikaChakravorty/automated-temperature-daq-control) - LabVIEW
 - [AV Zoom: Face Tracking & Audio Beamforming](https://github.com/SwastikaChakravorty/av-zoom-face-tracking-audio-beamforming) - MATLAB
-
-<div align="center">
-
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer)
-
-</div>
