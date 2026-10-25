@@ -11,7 +11,6 @@
 - I have worked on data acquisition and control with LabVIEW, and on face tracking with audio beamforming in MATLAB
 - Currently learning Verilog HDL for digital design
 - Preparing for GATE 2027
-- Open to collaborating on projects, feel free to reach out
 
 ### 🛠️ What I use:
 
